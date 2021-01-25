@@ -1,1 +1,1 @@
-# live_debug
+# live_debug_js
